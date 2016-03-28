@@ -1,0 +1,42 @@
+body {
+    background-color: #F5DD7E;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+    padding-top: 125px;
+    background-image: url('g2993.png');
+    background-repeat: no-repeat;
+    -webkit-background-size: auto 500px;
+    background-size: auto 500px;
+    background-position: center -300px;
+}
+h1, h2, h3, h4, h5, h6 { font-family: 'Henny Penny', cursive; }
+
+.red { color: #FC694D; }
+.bg-red { background-color: #FC694D; }
+.orange { color: #FC8D4D; }
+.blue { color: #0DB2AC; }
+.white { color: #FFF; }
+.black { color: #000; }
+
+.input { border: none; }
+.btn { 
+	background-color: #0DB2AC; 
+	color: #FFF; 
+	border: none;
+	padding: 0.5em 1.5em;
+}
+.lead { font-size: 5em; }
+.upper { text-transform: uppercase; }
+.w700 { font-weight: 700; }
+
+.btn-align-top span { vertical-align: top!important; }
+.twitter-follow-button { vertical-align: middle!important; }
+
+.container {
+	max-width: 40em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+}
